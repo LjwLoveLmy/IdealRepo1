@@ -13,5 +13,6 @@ public class firstGit {
     }
     public  void testCommit(){
         int a=10;
+        int b=100;
     }
 }
