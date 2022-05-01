@@ -9,5 +9,9 @@ public class firstGit {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
+
+    }
+    public  void testCommit(){
+        int a=10;
     }
 }
